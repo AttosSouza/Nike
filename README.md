@@ -1,8 +1,27 @@
-# React + Vite
+# Nike - Landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![nike](https://github.com/AttosSouza/Calculator/assets/87350423/0454d0a0-e28a-4079-acbd-2d17eb570330)
 
-Currently, two official plugins are available:
+### Desenvolvida com o intuito de colocar em prática habilidades com React.js e Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologias usadas neste projeto:
+
+- React.js
+- Tailwind CSS
+- Vite
+- Vercel
+
+Link do projeto: [Nike](https://nike-five-gold.vercel.app/)
+
+--------------------------------------------------------------------------------
+
+### Developed to put React.js and Tailwind CSS skills into practice.
+
+Technologies used in this project:
+
+- React.js
+- Tailwind CSS
+- Vite
+- Vercel
+
+You can see the project right here: [Nike](https://nike-five-gold.vercel.app/)

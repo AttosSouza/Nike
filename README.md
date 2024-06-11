@@ -1,27 +1,38 @@
-# Nike - Landing page
-
 ![nike](https://github.com/AttosSouza/Calculator/assets/87350423/0454d0a0-e28a-4079-acbd-2d17eb570330)
 
-### Desenvolvida com o intuito de colocar em prática habilidades com React.js e Tailwind CSS.
+# Introduction
 
-Tecnologias usadas neste projeto:
+Welcome to Nike Store
+
+A stunning Nike landing page, built with the power of React JS, and Tailwind CSS.
+
+
+# Features
+
+👉 Complex Hero Section: A visually appealing hero section showcasing key elements.
+
+👉 Popular Products Showcase: A section highlighting popular Nike products
+
+👉 About Us Section: An informative "About Us" section with a unique design.
+
+👉 Special Offers: Showcase special offers in an eye-catching manner
+
+👉 Testimonials: A testimonials section for a captivating user experience
+
+👉 Newsletter Integration: A newsletter section with Tailwind styling, encouraging user engagement
+
+👉 Footer: A comprehensive footer section containing various links
+
+👉 Mobile Responsive: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
+
+
+
+# Tech Stack:
 
 - React.js
 - Tailwind CSS
-- Vite
-- Vercel
 
-Link do projeto: [Nike](https://nike-five-gold.vercel.app/)
 
---------------------------------------------------------------------------------
+# The Project
 
-### Developed to put React.js and Tailwind CSS skills into practice.
-
-Technologies used in this project:
-
-- React.js
-- Tailwind CSS
-- Vite
-- Vercel
-
-You can see the project right here: [Nike](https://nike-five-gold.vercel.app/)
+You can see the project right here: [https://nike-five-gold.vercel.app](https://nike-five-gold.vercel.app/)
